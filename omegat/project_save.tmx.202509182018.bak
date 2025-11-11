@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>(Size of Building)</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T004946Z" creationid="Pablo Toro" creationdate="20250919T004923Z">
+        <seg>(Tamaño del edificio)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Size of Green Roof)</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T005424Z" creationid="Pablo Toro" creationdate="20250919T005424Z">
+        <seg>(Tamaño del techo verde)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>*Note: Residential buildings less than six storeys or 20m in height are exempt from the requirement to have a green roof.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T005701Z" creationid="Pablo Toro" creationdate="20250919T005626Z">
+        <seg>*Nota: Los edificios residenciales que tengan menos de seis pisos o 20m de altura están excentos de los requisitos para tener un techo verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Canada</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250915T215211Z" creationid="Pablo Toro" creationdate="20250915T215211Z">
+        <seg>Canadá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gross Floor Area *</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T003851Z" creationid="Pablo Toro" creationdate="20250919T003851Z">
+        <seg>Superficie bruta construida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 2009 the City of Toronto adopted the Green Roof By-Laws to set out a graduated green roof requirement.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T011503Z" creationid="Pablo Toro" creationdate="20250919T004351Z">
+        <seg>En 2009 la Ciudad de Toronto adoptó la Ordonanza de Techos Verdes para exponer un requisito graduado de techos verdes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In accordance with the by-law any new development or addition that is greater than 2,000m² in gross floor area is required to have a portion of the roof as a green roof.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T004554Z" creationid="Pablo Toro" creationdate="20250919T004554Z">
+        <seg>De acuerdo con la ordonanza, todo nuevo desarrollo o adición superior a 2,000m² en superficie bruta construida debe contener una porción de techo verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>International Trends</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T004159Z" creationid="Pablo Toro" creationdate="20250919T004159Z">
+        <seg>Tendencias internacionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Policy Trends</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T004904Z" creationid="Pablo Toro" creationdate="20250919T004148Z">
+        <seg>Tendencias de las políticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To encourage green roofs on buildings smaller than 2,000m2 and on residential buildings less than six storeys or 20m in height (where they are not mandated) the City of Toronto provides financial incentives through the Eco-Roof Incentive program.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T011454Z" creationid="Pablo Toro" creationdate="20250919T011454Z">
+        <seg>Para promover los techos verdes en edificios con un área inferior a 2,000m² y en edificios residenciales de menos de seis pisos o 20m de altura (donde no sea obligatorio) la Ciudad de Toronto provee incentivos financieros a través del Programa de Incentivos para Techos Ecológicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under the program existing residential, industrial, commercial and institutional buildings and new buildings with a gross floor area of less than 2,000m² can apply for a grant of;</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T011736Z" creationid="Pablo Toro" creationdate="20250919T011736Z">
+        <seg>Bajo dicho programa, los edificios residenciales, industriales, comerciales e institucionales existentes, además de nuevos edificios con una superficie bruta construida de menos de 2,000m², pueden aplicar a un subsidio de;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up to $100 (CAD) / square metre installed; or</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T011810Z" creationid="Pablo Toro" creationdate="20250919T011810Z">
+        <seg>Hasta $100 (Dólares canadienses)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
