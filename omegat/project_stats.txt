@@ -1,0 +1,14 @@
+11/11/25, 3:38 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	      83	  804	                   3796	                  4517	     1	
+Remaining:       	      70	  716	                   3386	                  4032	     1	
+Unique:          	      78	  779	                   3681	                  4382	     1	
+Unique Remaining:	      65	  691	                   3271	                  3897	     1	
+
+
+Individual File Statistics:
+
+File Name           	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+Voluspa_excerpt.docx	            83	                70	             78	                       65	        804	            716	         779	                   691	                         3796	                             3386	                          3681	                                    3271	                        4517	                            4032	                         4382	                                   3897	

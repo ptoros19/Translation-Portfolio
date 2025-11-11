@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>37.&lt;t0/&gt; From that shrub was made, as to me it seemed, a deadly, noxious dart.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20251109T165542Z" creationid="Pablo Toro" creationdate="20251109T164052Z">
+        <seg>37. De tal arbusto se ha hecho, a mí parecer, un mortal, nocivo dardo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>38.&lt;t0/&gt; Bound she saw lying, under &lt;t1/&gt;Hveralund&lt;t2/&gt;, a monstrous form, to Loki like.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20251109T165821Z" creationid="Pablo Toro" creationdate="20251109T165536Z">
+        <seg>38. Ella, destinada, vió yacer un ser monstruoso, tal y como Loki, bajo Hveralund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>39.&lt;t0/&gt; Then the Vala knew the fatal bonds were twisting, most rigid, bonds from entrails made.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20251109T170556Z" creationid="Pablo Toro" creationdate="20251109T170453Z">
+        <seg>39. Entonces, supo la Vala que los lazos fatales se distorsionaban, si bien rígidos, hechos de las propias entrañas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>40.&lt;t0/&gt; From the east a river falls, through venom dales, with mire and clods, &lt;t1/&gt;Slîd&lt;t2/&gt; is its name.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20251109T170923Z" creationid="Pablo Toro" creationdate="20251109T170859Z">
+        <seg>40. Del oriente fluye un río, a través de valles venenosos, hechos un lodazal, cuyo nombre es Slid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t1/&gt;Hödr&lt;t2/&gt; shot it forth; but Frigg bewailed, in &lt;t3/&gt;Fensalir&lt;t4/&gt;, Valhall's calamity.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20251109T165139Z" creationid="Pablo Toro" creationdate="20251109T165139Z">
+        <seg>Hodr lo disparó a la lejanía, pero Frigg sollozó, estando en Fensalir, la calamidad de la Valhalla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THE VALA'S PROPHECY.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20251109T163510Z" creationid="Pablo Toro" creationdate="20251109T163510Z">
+        <seg>LA PROFECÍA DE LA VALA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There sits Sigyn, for her consort's sake, not right glad.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20251109T170300Z" creationid="Pablo Toro" creationdate="20251109T170300Z">
+        <seg>Allá se encuentra Sigyn poco entusiasmada, para el alivio de su esposo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VÖLUSPÂ.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20251109T163454Z" creationid="Pablo Toro" creationdate="20251109T163454Z">
+        <seg>VOLUSPA</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
