@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>(Size of Building)</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T004946Z" creationid="Pablo Toro" creationdate="20250919T004923Z">
+        <seg>(Tamaño del edificio)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Size of Green Roof)</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T005424Z" creationid="Pablo Toro" creationdate="20250919T005424Z">
+        <seg>(Tamaño del techo verde)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>*Note: Residential buildings less than six storeys or 20m in height are exempt from the requirement to have a green roof.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T154014Z" creationid="Pablo Toro" creationdate="20250919T005626Z">
+        <seg>*Nota: Los edificios residenciales que tengan menos de seis pisos o 20m de altura están excentos del requisito de techos verdes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>20,000 m² or greater</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T153924Z" creationid="Pablo Toro" creationdate="20250920T153924Z">
+        <seg>20,000 m² o más</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally the City of Toronto has committed to provide green roofs covering at least 50% of the available roof space on all new City developments.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T154337Z" creationid="Pablo Toro" creationdate="20250919T012015Z">
+        <seg>Adicionalmente, la Ciudad de Toronto se ha comprometido a proveer techos verdes para cubrir al menos un 50% de la superficie disponible de los techos de todos los nuevos desarrollos de la Ciudad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally, roof top gardens, which are not considered eco-roofs, are permitted a bonus of an extra 1m2 of floorspace per 1m2 of green roof provided.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T154908Z" creationid="Pablo Toro" creationdate="20250920T152100Z">
+        <seg>Además, los jardines de tejado, que no se consideran techos ecológicos, tienen permitido 1m² de superficie adicional por cada metro cuadrado de techo verde proporcionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An eco-roof is defined as a rooftop stormwater facility that has been certified by the City’s Bureau of Environmental Services and they are being encouraged to help expand the City of Portland's stormwater management infrastructure.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T151204Z" creationid="Pablo Toro" creationdate="20250920T151204Z">
+        <seg>Un techo ecológico se define como una instalación de aguas lluvias en el tejado que ha sido certificada por la Oficina de Servicios Ambientales de la Ciudad. Estos techos incentivan la expansión de la infraestructura del manejo de aguas lluvias de la Ciudad de Portland.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Canada</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250915T215211Z" creationid="Pablo Toro" creationdate="20250915T215211Z">
+        <seg>Canadá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>City of Bayswater - Green Walls and Roofs Research Paper</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T153538Z" creationid="Pablo Toro" creationdate="20250920T153538Z">
+        <seg>Ciudad de Bayswater - Artículo de investigación sobre muros y techos verdes </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Coverage of Available Roof Space</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T144622Z" creationid="Pablo Toro" creationdate="20250920T144622Z">
+        <seg>Cobertura de la superficie disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Further, the City of Portland supports the incentives by providing education for the local community through information on events, guides and resources, a list of recommended professionals (from structural engineers to architects) and monitoring the number and impact of eco-roofs.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T153453Z" creationid="Pablo Toro" creationdate="20250920T153228Z">
+        <seg>Más aún, la Ciudad de Portland apoya los incentivos mediante la educación de la comunidad local a través de información sobre eventos, guías y recursos, una lista de profesionales recomendados (desde ingenieros de estructuras hasta arquitectos) y el monitoreo de la cantidad y el impacto de los techos ecológicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gross Floor Area *</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T003851Z" creationid="Pablo Toro" creationdate="20250919T003851Z">
+        <seg>Superficie bruta construida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 2009 the City of Toronto adopted the Green Roof By-Laws to set out a graduated green roof requirement.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T153723Z" creationid="Pablo Toro" creationdate="20250919T004351Z">
+        <seg>En 2009 la Ciudad de Toronto adoptó la Ordonanza de Techos Verdes para presentar un requisito paulatino de techos verdes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In accordance with the by-law any new development or addition that is greater than 2,000m² in gross floor area is required to have a portion of the roof as a green roof.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T004554Z" creationid="Pablo Toro" creationdate="20250919T004554Z">
+        <seg>De acuerdo con la ordonanza, todo nuevo desarrollo o adición superior a 2,000m² en superficie bruta construida debe contener una porción de techo verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>International Trends</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T004159Z" creationid="Pablo Toro" creationdate="20250919T004159Z">
+        <seg>Tendencias internacionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New developments can apply for the "Eco-roof Floor Area Ratio Bonus Option".</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T151401Z" creationid="Pablo Toro" creationdate="20250920T151401Z">
+        <seg>Los nuevos proyectos pueden aplicar a la "Opción Adicional de Aprovechamiento Tipo para Techos Ecológicos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page | 3</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T153551Z" creationid="Pablo Toro" creationdate="20250920T153551Z">
+        <seg>Página | 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Policy Trends</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T004904Z" creationid="Pablo Toro" creationdate="20250919T004148Z">
+        <seg>Tendencias de las políticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previously the City of Portland also provided direct financial incentive to property owners and developers to encourage eco-roofs.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T155000Z" creationid="Pablo Toro" creationdate="20250920T152209Z">
+        <seg>Anteriormente, la Ciudad de Portland también proporcionaba incentivos financieros directos a los dueños de las propiedades y a los desarrolladores, con el motivo de promover los techos ecológicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The City of Portland also has a requirement that all City owned buildings are to have 70% green roof coverage, this includes any new buildings and retrofitting existing buildings.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T153017Z" creationid="Pablo Toro" creationdate="20250920T152618Z">
+        <seg>La Ciudad de Portland también tiene el requisito de que todos los edificios que sean propiedad de la Ciudad deben tener una cobertura de techos verdes del 70%, incluyendo todo edificio nuevo y toda renovación de edificios existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The City undertook an awareness campaign which included establishing a website and holding two indepth ‘Green Roof 101’ training sessions for a cross section of city staff.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T150134Z" creationid="Pablo Toro" creationdate="20250920T145517Z">
+        <seg>La Ciudad llevó a cabo una campaña de concientización que incluyó una página web y dos sesiones de entrenamiento detalladas de 'Introducción a los techos verdes' para una muestra representativa del personal de la ciudad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The amount of roof space requirement to be a green roof ranges from 20-60% of the available roof space of a building depending on the gross floor area of the building.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T153855Z" creationid="Pablo Toro" creationdate="20250920T134857Z">
+        <seg>La superficie requerida para considerarse un techo verde varía entre el 20% y el 60% de la superficie disponible del techo de un edificio, dependiendo de la superficie bruta construida. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The grant applications must be approved prior to any work commencing.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T154220Z" creationid="Pablo Toro" creationdate="20250919T011957Z">
+        <seg>Las solicitudes para beneficiarse de este subsidio deben estar aprobadas antes de comenzar cualquier obra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The incentive program offered up to $50 (CAD) per square metre of installed eco-roof.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T152517Z" creationid="Pablo Toro" creationdate="20250920T152415Z">
+        <seg>El programa de incentivos ofrecía hasta 50 dólares canadienses por cada metro cuadrado de techo ecológico instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The training session provided information on green roof benefits and their design and construction.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T150415Z" creationid="Pablo Toro" creationdate="20250920T150143Z">
+        <seg>La sesión de entrenamiento proporcionó información sobre los beneficios de los techos verdes, además de su diseño y construcción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This program was discontinued in 2014.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T152607Z" creationid="Pablo Toro" creationdate="20250920T152607Z">
+        <seg>Este programa finalizó en 2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To encourage eco-roofs the City of Portland introduced a range of incentives.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T150603Z" creationid="Pablo Toro" creationdate="20250920T150603Z">
+        <seg>Para promover los techos ecológicos, la Ciudad de Portland introdujo una variedad de incentivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To encourage green roofs on buildings smaller than 2,000m2 and on residential buildings less than six storeys or 20m in height (where they are not mandated) the City of Toronto provides financial incentives through the Eco-Roof Incentive program.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T011454Z" creationid="Pablo Toro" creationdate="20250919T011454Z">
+        <seg>Para promover los techos verdes en edificios con un área inferior a 2,000m² y en edificios residenciales de menos de seis pisos o 20m de altura (donde no sea obligatorio) la Ciudad de Toronto provee incentivos financieros a través del Programa de Incentivos para Techos Ecológicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To raised awareness of green roofs the City of Toronto identified a number of strategies including creating a green roof web page, technical workshops and staff training.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T145441Z" creationid="Pablo Toro" creationdate="20250920T145441Z">
+        <seg>Para generar conciencia sobre los techos verdes, la Ciudad de Toronto identificó diversas estrategias que incluyen la creación de una página web sobre techos verdes, la instauración de talleres técnicos y el entrenamiento del personal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under the bonus option green roofs are incentivised as a developer can build and extra 3m2 of floorspace per 1m2 of eco-roof coverage provided.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T154736Z" creationid="Pablo Toro" creationdate="20250920T151845Z">
+        <seg>Bajo esta opción adicional, se promueven los techos verdes mediante la posibilidad de construir 3m² de superficie adicional por cada metro cuadrado de techo ecológico proporcionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under the program existing residential, industrial, commercial and institutional buildings and new buildings with a gross floor area of less than 2,000m² can apply for a grant of;</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250919T011736Z" creationid="Pablo Toro" creationdate="20250919T011736Z">
+        <seg>Bajo dicho programa, los edificios residenciales, industriales, comerciales e institucionales existentes, además de nuevos edificios con una superficie bruta construida de menos de 2,000m², pueden aplicar a un subsidio de;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>United States of America</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T150434Z" creationid="Pablo Toro" creationdate="20250920T150434Z">
+        <seg>Estados Unidos de América</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up to $1,000 (CAD) for a structural assessment.</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T154112Z" creationid="Pablo Toro" creationdate="20250919T011917Z">
+        <seg>Hasta 1,000 dólares canadienses para una evaluación estructural.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up to $100 (CAD) / square metre installed; or</seg>
+      </tuv>
+      <tuv lang="es-CO" changeid="Pablo Toro" changedate="20250920T152451Z" creationid="Pablo Toro" creationdate="20250919T011810Z">
+        <seg>Hasta 100 dólares canadienses por metro cuadrado instalado; o</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

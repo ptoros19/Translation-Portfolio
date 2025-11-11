@@ -1,0 +1,14 @@
+9/20/25, 11:05 AM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	      46	  561	                   2933	                  3446	     1	
+Remaining:       	      12	   16	                     80	                    80	     1	
+Unique:          	      46	  561	                   2933	                  3446	     1	
+Unique Remaining:	      12	   16	                     80	                    80	     1	
+
+
+Individual File Statistics:
+
+File Name                                        	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+Excerpt-Green_walls_and_Roofs_Supporting_Doc.docx	            46	                12	             46	                       12	        561	             16	         561	                    16	                         2933	                               80	                          2933	                                      80	                        3446	                              80	                         3446	                                     80	
